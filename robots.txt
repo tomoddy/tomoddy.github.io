@@ -1,0 +1,8 @@
+# google.com landing page quality check
+User-agent: AdsBot-Google
+Disallow: 
+
+User-agent: *
+Disallow: /example1
+Disallow: /example2
+Disallow: /example3
